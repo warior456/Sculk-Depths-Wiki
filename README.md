@@ -51,7 +51,6 @@ Download the mod and explore
   
   ![Cephlera Caves](https://github.com/warior456/Sculk-Depths/assets/66562258/cd48ee13-0355-4928-86b3-0ba684f9d54d)
   
-  
 </details>
 
 ## License
