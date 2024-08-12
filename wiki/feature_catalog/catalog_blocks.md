@@ -1,3 +1,6 @@
+---
+label: Blocks
+---
 ## Block Catalog
 
 ### Flumrock Cauldron
@@ -7,7 +10,7 @@
   - 12 Quazarith Pieces
 
   It can be used for upgrading tools and armor to their Quazarith counterpart
-  ![Filled Kryslum Flumrock Cauldron](https://github.com/warior456/Sculk-Depths/assets/66562258/b050d4aa-9d00-45a2-a24a-5a8c2667cfbf)
+  ![Filled Kryslum Flumrock Cauldron](/static/filled_kryslum_flumrock_cauldron.png)
 
 
 ### Kryslum Enriched Soil
@@ -16,7 +19,7 @@
   - Boosted crop Growth by a factor of 2,33..
   - It can act as water for normal farmland even in the nether.
 
-![Kryslum Enriched Soil](https://github.com/warior456/Sculk-Depths/assets/66562258/a3b535b6-8d0e-464c-9609-f3547b77a58f)
+![Kryslum Enriched Soil](/static/kryslum_enriched_soil.png)
 
 ### Quazarith Ore
 Generation:

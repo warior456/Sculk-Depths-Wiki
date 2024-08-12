@@ -1,3 +1,6 @@
+---
+label: Items
+---
 ## Item Catalog
 
 ### Energy Essence
