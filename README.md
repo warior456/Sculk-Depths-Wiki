@@ -26,11 +26,11 @@ Download the mod and explore
 [Curseforge](https://www.curseforge.com/minecraft/mc-mods/sculk-depths)
 
 ## FEATURES
-- New dimension with [four new biomes](wiki/feature_catalog/catalog_biomes.md)
-- 2 New [Structures](wiki/feature_catalog/catalog_strucures.md)
-- 3 new [mobs](wiki/feature_catalog/catalog_mobs.md)
-- many new [blocks and blocksets](wiki/feature_catalog/catalog_blocks.md)
-- Many new [items](wiki/feature_catalog/catalog_items.md)
+- New dimension with [four new biomes](wiki/feature_catalog/catalog_biomes/)
+- 2 New [Structures](wiki/feature_catalog/catalog_strucures/)
+- 3 new [mobs](wiki/feature_catalog/catalog_mobs/)
+- many new [blocks and blocksets](wiki/feature_catalog/catalog_blocks/)
+- Many new [items](wiki/feature_catalog/catalog_items/)
 
 ## Screenshots
 

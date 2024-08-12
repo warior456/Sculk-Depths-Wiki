@@ -1,14 +1,20 @@
 input: .
 output: .retype
-url: # Add your website address here
+url: https://warior456.github.io/Sculk-Depths-Wiki/
 branding:
   title: Sculk Depths
   label: Wiki
 links:
 - text: Download on Modrinth
   link: https://modrinth.com/mod/sculk-depths
+- text: Download on Curseforge
+  link: https://www.curseforge.com/minecraft/mc-mods/sculk-depths
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
 
 edit:
   repo: "https://github.com/warior456/Sculk-Depths-Wiki/edit/"
+
+integrations:
+  googleAnalytics:
+    id: 431249669
