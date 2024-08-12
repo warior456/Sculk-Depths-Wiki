@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: /sitemap.xml.gz
+Sitemap: https://warior456.github.io/Sculk-Depths-Wiki/sitemap.xml.gz
