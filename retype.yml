@@ -9,6 +9,8 @@ links:
   link: https://modrinth.com/mod/sculk-depths
 - text: Download on Curseforge
   link: https://www.curseforge.com/minecraft/mc-mods/sculk-depths
+- text: Crowdin
+  link: https://crowdin.com/project/sculk-depths
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
 
