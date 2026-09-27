@@ -9,6 +9,7 @@ order: 100
 4. Clear all the sculk veins from the middle of the reinforced deepslate in the center of the city.
 5. Use the Energized Flint and Steel to light the portal.
 
+PORTAL DEV version requires you to use energy essense on the pedestal to activate the portal
 
 ## Finding an ancient city
 Ancient cities can be found in the deep dark.
@@ -22,6 +23,6 @@ Afterwards you will need to right click the Energized Flint and Steel on the por
 
 ## Notes: 
 - make sure to check the [Preparation guide](preparation_guide)
-
+- PORTAL DEV version requires you to use energy essense on the pedestal to activate the portal
 
 When entering this dimension, it is recommended to bring a netherite pickaxe because the planet is mostly made of a very hard block called Umbrusk.
