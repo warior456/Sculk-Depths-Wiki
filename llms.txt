@@ -1,0 +1,16 @@
+﻿# Welcome to the Sculk-Depths wiki!
+
+> The wiki will be updated according to updates and essential stuff will be added by us For less essential stuff we rely on community contributions
+
+- [Welcome to the Sculk-Depths wiki!](https://warior456.github.io/Sculk-Depths-Wiki/readme.md): Welcome to the Sculk-Depths wiki!
+
+## Wiki
+
+- [Getting Started](https://warior456.github.io/Sculk-Depths-Wiki/wiki/getting_started.md): Search for a deep dark biome with an ancient city.
+- [Obtaining Quazarith and upgrading](https://warior456.github.io/Sculk-Depths-Wiki/wiki/obtaining-quazarith-and-upgrading.md): Quazarith can generate at y -192 or lower in a uniform distribution.
+- [Sacrificable mob list](https://warior456.github.io/Sculk-Depths-Wiki/wiki/sacrificable_mob_list.md): allay
+
+### Feature catalog
+
+- [Blocks](https://warior456.github.io/Sculk-Depths-Wiki/wiki/feature_catalog/catalog_blocks.md): A Flumrock Cauldron filled with at least one Kryslum (bucket) can store:
+- [Items](https://warior456.github.io/Sculk-Depths-Wiki/wiki/feature_catalog/catalog_items.md): Drops when the warden kills a passive mob or when the warden is killed.
