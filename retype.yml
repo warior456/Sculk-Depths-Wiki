@@ -1,6 +1,10 @@
 input: .
 output: .retype
 url: https://warior456.github.io/Sculk-Depths-Wiki/
+meta:
+  title: Sculk Depths Wiki
+  description: "Unofficial wiki for the Sculk Depths Minecraft mod: blocks, items, biomes, structures, progression and recipes."
+  image: "https://github.com/warior456/Sculk-Depths/assets/66562258/076ff4f4-a41c-4bf4-b3f3-a7c5d5f936d9"
 branding:
   title: Sculk Depths
   label: Wiki
