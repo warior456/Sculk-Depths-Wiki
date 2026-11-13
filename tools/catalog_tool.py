@@ -395,6 +395,15 @@ def main(argv: list[str] | None = None) -> int:
     tools, tiers = load_tool_data(mod_repo)
     spawn_egg_tints = load_spawn_egg_tints(mod_repo)
     store = TextureStore(mod_repo)
+    if store.vanilla_zip is None:
+        print(
+            "WARNING: no Minecraft client-extra jar found under "
+            f"{mod_repo / 'build/moddev/artifacts'}. Vanilla parent models and "
+            "textures (spawn eggs, fences, walls, doors, signs) will fall back "
+            "to simpler shapes or placeholders. Run "
+            "`./gradlew createMinecraftArtifacts` in the mod repo to fix this.",
+            file=sys.stderr,
+        )
     manifest_path = wiki_root / config.get("manifest", "static/.catalog-manifest.json")
     manifest = load_manifest(manifest_path)
     property_cache: dict[str, dict[str, Any]] = {}

@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       mod_ref:
-        description: Branch or tag of warior456/Sculk-Depths to use
+        description: Branch or tag of the Sculk-Depths mod repository to use
         required: false
         default: portal-neoforge
   schedule:
@@ -28,15 +28,19 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
+    timeout-minutes: 30
 
     steps:
       - name: Checkout wiki
         uses: actions/checkout@v4
 
+      # The mod repository is public, so the default GITHUB_TOKEN can read it.
+      # Override the repository/ref with repository variables MOD_REPOSITORY and
+      # MOD_REF, or the mod_ref input when running the workflow manually.
       - name: Checkout mod sources
         uses: actions/checkout@v4
         with:
-          repository: warior456/Sculk-Depths
+          repository: ${{ vars.MOD_REPOSITORY || 'warior456/Sculk-Depths' }}
           ref: ${{ inputs.mod_ref || vars.MOD_REF || 'portal-neoforge' }}
           path: .mod-sources
 
@@ -46,12 +50,28 @@ jobs:
           distribution: temurin
           java-version: "21"
 
-      - name: Prepare Minecraft assets (best effort)
+      - name: Set up Gradle caches
+        uses: gradle/actions/setup-gradle@v4
+        with:
+          build-root-directory: .mod-sources
+
+      # The preview renderer needs vanilla parent models/textures (spawn eggs,
+      # fences, walls, doors, signs, cross plants). They live in the
+      # client-extra jar produced by createMinecraftArtifacts.
+      - name: Download Minecraft resources
         working-directory: .mod-sources
-        continue-on-error: true
         run: |
           chmod +x gradlew
           ./gradlew createMinecraftArtifacts --no-daemon
+
+      - name: Verify Minecraft resources
+        run: |
+          jar="$(find .mod-sources/build/moddev/artifacts -name '*client-extra*.jar' -print -quit)"
+          if [ -z "$jar" ]; then
+            echo "::error::client-extra jar missing; refusing to commit previews without vanilla models/textures."
+            exit 1
+          fi
+          echo "Using $jar"
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -81,6 +101,8 @@ jobs:
           git push
           echo "changed=true" >> "$GITHUB_OUTPUT"
 
+      # Pushes made with GITHUB_TOKEN do not trigger other workflows, so the
+      # Retype publish workflow is dispatched explicitly.
       - name: Trigger site publish
         if: steps.commit.outputs.changed == 'true'
         env:

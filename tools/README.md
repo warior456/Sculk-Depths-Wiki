@@ -145,16 +145,33 @@ If a model cannot be found, the tool falls back to
 
 ## Automation
 
-`.github/workflows/update-catalog.yml` runs on a schedule and on demand:
+`.github/workflows/update-catalog.yml` runs on a schedule, on demand, and when
+the tool itself changes:
 
 1. checks out this wiki repository;
-2. checks out `warior456/Sculk-Depths` into `.mod-sources`;
-3. installs Pillow;
-4. runs `python tools/catalog_tool.py --wiki-repo . --mod-repo .mod-sources`;
-5. commits new entries/images if anything changed.
+2. checks out the public `warior456/Sculk-Depths` repository into `.mod-sources`
+   (the default `GITHUB_TOKEN` can read public repositories, so no extra secret
+   is needed);
+3. installs Java 21 and runs `./gradlew createMinecraftArtifacts` to download
+   the vanilla client resources used for parent models and textures;
+4. fails the job if the `client-extra` jar is missing, so degraded previews are
+   never committed;
+5. installs Pillow and runs
+   `python tools/catalog_tool.py --wiki-repo . --mod-repo .mod-sources`;
+6. commits new entries/images if anything changed and dispatches the Retype
+   publish workflow.
 
-The workflow needs `contents: write`. The existing Retype workflow then
-publishes the updated site on the next push to `main`.
+The workflow needs `contents: write` and `actions: write`.
+
+The source repository and ref are configurable without editing the workflow:
+
+| Setting | Repository variable | Manual input |
+| --- | --- | --- |
+| Mod repository | `MOD_REPOSITORY` (default `warior456/Sculk-Depths`) | — |
+| Mod ref | `MOD_REF` (default `portal-neoforge`) | `mod_ref` |
+
+Pushes made with `GITHUB_TOKEN` do not trigger other workflows, so the workflow
+calls `gh workflow run retype-action.yml` explicitly.
 
 ## SEO notes
 
