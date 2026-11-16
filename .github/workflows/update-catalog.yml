@@ -1,5 +1,7 @@
 name: Update wiki catalogs
 
+# Manual only: this job boots a real Minecraft client, so it is deliberately
+# not triggered by pushes or a schedule.
 on:
   workflow_dispatch:
     inputs:
@@ -7,15 +9,6 @@ on:
         description: Branch or tag of the Sculk-Depths mod repository to use
         required: false
         default: portal-neoforge
-  schedule:
-    # Every Monday at 04:00 UTC.
-    - cron: "0 4 * * 1"
-  push:
-    branches:
-      - main
-    paths:
-      - "tools/**"
-      - ".github/workflows/update-catalog.yml"
 
 permissions:
   contents: write
@@ -28,7 +21,11 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 45
+
+    env:
+      # No GPU on GitHub runners: render through Mesa's software rasterizer.
+      LIBGL_ALWAYS_SOFTWARE: "1"
 
     steps:
       - name: Checkout wiki
@@ -37,6 +34,7 @@ jobs:
       # The mod repository is public, so the default GITHUB_TOKEN can read it.
       # Override the repository/ref with repository variables MOD_REPOSITORY and
       # MOD_REF, or the mod_ref input when running the workflow manually.
+      # The mod checkout is read-only: the workflow only commits to the wiki.
       - name: Checkout mod sources
         uses: actions/checkout@v4
         with:
@@ -55,7 +53,13 @@ jobs:
         with:
           build-root-directory: .mod-sources
 
-      # The preview renderer needs vanilla parent models/textures (spawn eggs,
+      - name: Install Xvfb and Mesa
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends \
+            xvfb libgl1-mesa-dri mesa-utils
+
+      # The catalog tool needs vanilla parent models/textures (spawn eggs,
       # fences, walls, doors, signs, cross plants). They live in the
       # client-extra jar produced by createMinecraftArtifacts.
       - name: Download Minecraft resources
@@ -78,13 +82,17 @@ jobs:
         with:
           python-version: "3.11"
           cache: pip
-          cache-dependency-path: tools/requirements.txt
+          cache-dependency-path: .mod-sources/tools/catalog/requirements.txt
 
       - name: Install dependencies
-        run: python -m pip install -r tools/requirements.txt
+        run: python -m pip install -r .mod-sources/tools/catalog/requirements.txt
 
+      # The tool renders real client screenshots through the mod's Gradle
+      # `runCatalogRender` task, so it needs a display even though it is a CLI.
       - name: Update catalogs
-        run: python tools/catalog_tool.py --wiki-repo . --mod-repo .mod-sources
+        run: |
+          xvfb-run -a python .mod-sources/tools/catalog/catalog_tool.py \
+            --wiki-repo . --mod-repo .mod-sources
 
       - name: Commit changes
         id: commit

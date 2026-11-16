@@ -1,10 +1,7 @@
 {
   "scripts": {
     "start": "retype watch",
-    "build": "retype build",
-    "catalog": "python tools/catalog_tool.py",
-    "catalog:dry": "python tools/catalog_tool.py --dry-run",
-    "catalog:force": "python tools/catalog_tool.py --force-images"
+    "build": "retype build"
   },
   "dependencies": {
     "retypeapp": "^4.6.0"
