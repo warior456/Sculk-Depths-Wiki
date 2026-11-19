@@ -1,6 +1,6 @@
-﻿# Welcome to the Sculk-Depths wiki!
+﻿# Sculk Depths Wiki
 
-> The wiki will be updated according to updates and essential stuff will be added by us For less essential stuff we rely on community contributions
+> Unofficial wiki for the Sculk Depths Minecraft mod: blocks, items, biomes, structures, progression and recipes.
 
 - [Welcome to the Sculk-Depths wiki!](https://warior456.github.io/Sculk-Depths-Wiki/readme.md): Welcome to the Sculk-Depths wiki!
 
@@ -12,5 +12,5 @@
 
 ### Feature catalog
 
-- [Blocks](https://warior456.github.io/Sculk-Depths-Wiki/wiki/feature_catalog/catalog_blocks.md): A Flumrock Cauldron filled with at least one Kryslum (bucket) can store:
-- [Items](https://warior456.github.io/Sculk-Depths-Wiki/wiki/feature_catalog/catalog_items.md): Drops when the warden kills a passive mob or when the warden is killed.
+- [Blocks](https://warior456.github.io/Sculk-Depths-Wiki/wiki/feature_catalog/catalog_blocks.md): Browse every block added by the Sculk Depths Minecraft mod, including generated previews, hardness, required tools and drops.
+- [Items](https://warior456.github.io/Sculk-Depths-Wiki/wiki/feature_catalog/catalog_items.md): Browse every item added by the Sculk Depths Minecraft mod, with generated previews of crystals, ingots, tools, spawn eggs and more.

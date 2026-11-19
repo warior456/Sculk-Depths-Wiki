@@ -1,0 +1,1101 @@
+{
+  "blocks/activated_amalgamite": {
+    "hash": "4bf4b91a75dd2ea6e67df408081b41c35d4d46153e4df1cdb3e35bc806dffc6b",
+    "height": 720,
+    "image": "static/blocks/activated_amalgamite.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/amalgamite": {
+    "hash": "7e3937c9b595d2ca4a600dfd5e7b7a51c6e651cab40e3a16ff38e6d71d2b8309",
+    "height": 720,
+    "image": "static/blocks/amalgamite.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/amalgamite_brick_slab": {
+    "hash": "2f19f1fe226bc5e4fb7e412e158a57d228a5b0460480171b0c383499ba4cb647",
+    "height": 720,
+    "image": "static/blocks/amalgamite_brick_slab.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/amalgamite_brick_stairs": {
+    "hash": "e8e4ded669b9348a2316c081cdef91eb812cfc910678c418de6f6f80e3565610",
+    "height": 720,
+    "image": "static/blocks/amalgamite_brick_stairs.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/amalgamite_brick_wall": {
+    "hash": "1102cee4363d4b723df43ea73552826c7144bd7c3e539376a75f0772bc66e186",
+    "height": 720,
+    "image": "static/blocks/amalgamite_brick_wall.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/amalgamite_bricks": {
+    "hash": "93f1c933753cc13dd91c44fb3abf7981f4b596411d1678b657365670da5120df",
+    "height": 720,
+    "image": "static/blocks/amalgamite_bricks.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/auric_shroom_block": {
+    "hash": "3e7a171b25a7899d633f71843549487f3e3f20bd199441bc53ec3c3d7ed2dd15",
+    "height": 720,
+    "image": "static/blocks/auric_shroom_block.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/auric_shroom_stem": {
+    "hash": "a404a7bd4b87978f482a2f763e834942eee1e4ec4e28d739c3a74cbeb357bede",
+    "height": 720,
+    "image": "static/blocks/auric_shroom_stem.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/auric_spore_block": {
+    "hash": "bb62b25b66a57d331bc9514b80e70ce0f6f220500137ee29ea957809a032f0dc",
+    "height": 720,
+    "image": "static/blocks/auric_spore_block.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/auric_spore_layer": {
+    "hash": "6cf35e20ecddbcd9d1b7ce8ed0baa06400337fb822a45bc21e1126a1aadadfab",
+    "height": 720,
+    "image": "static/blocks/auric_spore_layer.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/auric_spore_sprouts": {
+    "hash": "f720a1accbb0d65f3b013993a657399430290a73e41c329b29b4e407a6f1831f",
+    "height": 720,
+    "image": "static/blocks/auric_spore_sprouts.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/auric_vines_end": {
+    "hash": "595092c37e6545965bfba7eeeec17d59db837f4b838d32a95ce55a10cec6d62d",
+    "height": 720,
+    "image": "static/blocks/auric_vines_end.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/blue_crystal_block": {
+    "hash": "6978d37a5d25856ae22a6738f6ed80fad963e0c3fa8231f959a685413d58316e",
+    "height": 720,
+    "image": "static/blocks/blue_crystal_block.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/cephlera_light": {
+    "hash": "c4fbf8e27d964a41c770be9e7e2ffc23da531fa2a199988f19d7ce38450f08eb",
+    "height": 720,
+    "image": "static/blocks/cephlera_light.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/chiseled_amalgamite": {
+    "hash": "5f913735c3e2a7d4c4eb5aa81bca61b910a744f678b5fd9444f128c7dcf09e5f",
+    "height": 720,
+    "image": "static/blocks/chiseled_amalgamite.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/chiseled_zygrin": {
+    "hash": "f34cf90f7ea4ceda958a569d5050bfcbbe4d78dc55f7053d67b6da104aa2b5c1",
+    "height": 720,
+    "image": "static/blocks/chiseled_zygrin.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/coated_stripped_valtrox_log": {
+    "hash": "84407531b522be1c57549b51928fb8ebab31e5ee3c877a06b9d5a9dc99aef781",
+    "height": 720,
+    "image": "static/blocks/coated_stripped_valtrox_log.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/coated_stripped_valtrox_wood": {
+    "hash": "31756556291b039c7d587819feb0ab73d918e951b3ca88bed0f2fc77585a823f",
+    "height": 720,
+    "image": "static/blocks/coated_stripped_valtrox_wood.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/coated_valtrox_button": {
+    "hash": "5ec279af6e3c2e46db60d9d27d09a3dfd2271139c0348b8c2ab0debe495fbb04",
+    "height": 720,
+    "image": "static/blocks/coated_valtrox_button.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/coated_valtrox_door": {
+    "hash": "b0bcfdadfffa797ca5aa3934d43f1bca6d8745f5250c43bac98aecbe97953a1a",
+    "height": 720,
+    "image": "static/blocks/coated_valtrox_door.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/coated_valtrox_fence": {
+    "hash": "f24fc328ebf83d10f59f22a0764f3759a5e97619e1d8d131ffb4d189c13d5034",
+    "height": 720,
+    "image": "static/blocks/coated_valtrox_fence.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/coated_valtrox_fence_gate": {
+    "hash": "79940db4dd2fb4697ab82a8b490da8881d628c8fe7523babfe9093fdf8e2662a",
+    "height": 720,
+    "image": "static/blocks/coated_valtrox_fence_gate.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/coated_valtrox_log": {
+    "hash": "655d55414bf06f3f47caf98b7cd04d1ea8f2ec1e09f3b65099d4346b939bbca5",
+    "height": 720,
+    "image": "static/blocks/coated_valtrox_log.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/coated_valtrox_planks": {
+    "hash": "7003a4590108c3d8661d4b38889308dd3a18e47edbb4cacc5ef5f4461c04b634",
+    "height": 720,
+    "image": "static/blocks/coated_valtrox_planks.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/coated_valtrox_pressure_plate": {
+    "hash": "f888d1855d36cea304acdc4b06cd52e51be10485b965f95da36c915d10cdbc16",
+    "height": 720,
+    "image": "static/blocks/coated_valtrox_pressure_plate.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/coated_valtrox_slab": {
+    "hash": "935f2461d0a48312a92bf9b48991a8f8eb19c4ce52a8b97bf49ab35a8381c213",
+    "height": 720,
+    "image": "static/blocks/coated_valtrox_slab.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/coated_valtrox_stairs": {
+    "hash": "f4f21c944f0be58e331c6bbeff0848dad8b72a40ae7d74ab7afd5a5b9835da76",
+    "height": 720,
+    "image": "static/blocks/coated_valtrox_stairs.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/coated_valtrox_trapdoor": {
+    "hash": "ccb7170b38041f40e44bf9126318638fd5f970b3945b2d8b21f80d2a7da4d53f",
+    "height": 720,
+    "image": "static/blocks/coated_valtrox_trapdoor.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/coated_valtrox_wood": {
+    "hash": "2212fb55c671378bcece123b38760b2755cc8c95395dbe7af3dafbf2c08fec93",
+    "height": 720,
+    "image": "static/blocks/coated_valtrox_wood.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/cracked_amalgamite_bricks": {
+    "hash": "dc54cb1d62f2182ee25dee29e16da20be5b7c5f71e630f1b569b7e33fe85a15e",
+    "height": 720,
+    "image": "static/blocks/cracked_amalgamite_bricks.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/crumbling_dirt": {
+    "hash": "129b851a11f16af75e35686d25730ba7c931726bdbf2549479e30cedab80a8d2",
+    "height": 720,
+    "image": "static/blocks/crumbling_dirt.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/crumbling_flumrock_tiles": {
+    "hash": "6eec27f0d66264bae31e2a8ba3aa2ef9cdbf98287a51ed49c566d586ab971614",
+    "height": 720,
+    "image": "static/blocks/crumbling_flumrock_tiles.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/crux_block": {
+    "hash": "7a23e99ff6ab611c1ffc4f2dbefcd887136c4550ab2cfbe5798ecd6a9d908aca",
+    "height": 720,
+    "image": "static/blocks/crux_block.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/crux_ore": {
+    "hash": "f290d5495f6e72a4da0a9195ec064f11c9a477e94efeb1249483eb304054d41d",
+    "height": 720,
+    "image": "static/blocks/crux_ore.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/dead_grass": {
+    "hash": "4bcfff3bb4d02efa15f616a00fa1b790f22c39a5b6392d9ad614b6b5e500a187",
+    "height": 720,
+    "image": "static/blocks/dead_grass.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/dried_valtrox_button": {
+    "hash": "b3d18c1e057d9938678dec444dc19815cff2aa7f6f7e2fe4166c39006ff6a1ed",
+    "height": 720,
+    "image": "static/blocks/dried_valtrox_button.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/dried_valtrox_door": {
+    "hash": "9fc6a1249ac8122617eb736f0800cc5af6b500a2537f37c3c40ee9576a6ca64a",
+    "height": 720,
+    "image": "static/blocks/dried_valtrox_door.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/dried_valtrox_fence": {
+    "hash": "7ff81550e632f1312907356c133e9efe989327047b5b1284ff9ffbacc6f107ba",
+    "height": 720,
+    "image": "static/blocks/dried_valtrox_fence.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/dried_valtrox_fence_gate": {
+    "hash": "7ffeb00eaf37ff0d62487e0f32bde39b4aca2611e962762a3a292d2acc0a64ee",
+    "height": 720,
+    "image": "static/blocks/dried_valtrox_fence_gate.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/dried_valtrox_log": {
+    "hash": "e08341dc77016c16c301813557901b073c3bde2ad71ba1580611573aafdde119",
+    "height": 720,
+    "image": "static/blocks/dried_valtrox_log.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/dried_valtrox_planks": {
+    "hash": "1ff2ba60bf28de5de0054077e47d4105c1bd4eaae5f5012b1c9a396513940936",
+    "height": 720,
+    "image": "static/blocks/dried_valtrox_planks.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/dried_valtrox_pressure_plate": {
+    "hash": "d2f4eb19446d1c8f414e56c658861333481656948979a82322aa5846febaec35",
+    "height": 720,
+    "image": "static/blocks/dried_valtrox_pressure_plate.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/dried_valtrox_slab": {
+    "hash": "f99d7903a5cb6b439d2bfda822ceb3bc114c888f1beb42e2f3e1eeb2c39438ac",
+    "height": 720,
+    "image": "static/blocks/dried_valtrox_slab.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/dried_valtrox_stairs": {
+    "hash": "02855e90878578bf07987c22399ed54e91ce7ea701936afd80d1838712821ad0",
+    "height": 720,
+    "image": "static/blocks/dried_valtrox_stairs.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/dried_valtrox_trapdoor": {
+    "hash": "4076641034a28e856992d63b33cca3ff15da951b219cbaacad12917ee1a4f883",
+    "height": 720,
+    "image": "static/blocks/dried_valtrox_trapdoor.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/dried_valtrox_wood": {
+    "hash": "ec813efb2c5cca3ec09c72ab57d7dbcc86c45b210c9ce8559b4092a5ee444073",
+    "height": 720,
+    "image": "static/blocks/dried_valtrox_wood.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/flumrock": {
+    "hash": "40d910150471e061f4b0a83de3d6a26caadc02c949ee436c368e6c879f54d27e",
+    "height": 720,
+    "image": "static/blocks/flumrock.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/flumrock_cauldron": {
+    "hash": "9aef1738b5f728cd06dc47efb7c2363fe29cd2a91e59e02889e0f36a112ff6ab",
+    "height": 720,
+    "image": "static/blocks/flumrock_cauldron.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/flumrock_tile_slab": {
+    "hash": "6a89fa16adc6fbd27fed582c7f58744fcc321482dbe003a98c16be4432bc0535",
+    "height": 720,
+    "image": "static/blocks/flumrock_tile_slab.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/flumrock_tile_stairs": {
+    "hash": "0b60ec5d401770260f2b0e1410f1cac9ef11b1d07394719f9666722b764b62ac",
+    "height": 720,
+    "image": "static/blocks/flumrock_tile_stairs.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/flumrock_tile_wall": {
+    "hash": "fcc9c8fdad5a8d8987a45fec9e34496b553007f75c12702bd3d58a2b2cbd395c",
+    "height": 720,
+    "image": "static/blocks/flumrock_tile_wall.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/flumrock_tiles": {
+    "hash": "cc538045e1b0a7b3ec610383bd4223b45a200dd9078b0d08fbed3fddf32b2db1",
+    "height": 720,
+    "image": "static/blocks/flumrock_tiles.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/kryslum_enriched_soil": {
+    "hash": "38494eda2c314e046e95b4d56f3ed3d71b8739442c86e21b24cb0c82488af48a",
+    "height": 720,
+    "image": "static/blocks/kryslum_enriched_soil.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/larguth": {
+    "hash": "63ba7fe4bec12fff3700ab15a7e89a27496814ab4d0ead7024ae961d8df9a57c",
+    "height": 720,
+    "image": "static/blocks/larguth.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/lime_crystal_block": {
+    "hash": "dfd4dc013cd1c48719ba58f0ca73fe0400d8ef9ffd19be4b28549d6caa4aa8e5",
+    "height": 720,
+    "image": "static/blocks/lime_crystal_block.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/orange_crystal_block": {
+    "hash": "9ade7f6e122ed5e4f151ebc668bef051cf857937ce8899f1442a2a4df9165891",
+    "height": 720,
+    "image": "static/blocks/orange_crystal_block.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/penebrium_shroom": {
+    "hash": "1ffaf5a5570497fe9f618676ee6c3f0d9776352ba339ca02df958e90a6c1a30f",
+    "height": 720,
+    "image": "static/blocks/penebrium_shroom.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/penebrium_shroom_block": {
+    "hash": "2aaa23a046587f9d7acb0aaf6c9f51cda5612aa4a8fac9e20c7cf8570e5d5b13",
+    "height": 720,
+    "image": "static/blocks/penebrium_shroom_block.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/penebrium_shroom_stem": {
+    "hash": "8cd7d6c3ae7afe3887738cdaabf44b17c139c13d7858157d7539da73afc23fff",
+    "height": 720,
+    "image": "static/blocks/penebrium_shroom_stem.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/penebrium_spore_block": {
+    "hash": "194d1946b59404e2012d547fb8ba63235bb5315c5de32add613c6158699587fb",
+    "height": 720,
+    "image": "static/blocks/penebrium_spore_block.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/petrified_valtrox_button": {
+    "hash": "fabbdc7c25cf7d628dc650701e195c2bf916f132b00530a6b8bcd66f32d052b3",
+    "height": 720,
+    "image": "static/blocks/petrified_valtrox_button.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/petrified_valtrox_door": {
+    "hash": "bb3ed2974a443b103be48a63e726fc1b4506dcea23e4bdac0bbbd4ae0ea1b309",
+    "height": 720,
+    "image": "static/blocks/petrified_valtrox_door.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/petrified_valtrox_log": {
+    "hash": "51d58db981ca79edf27897bca6baddeb4db969f567f2b4eabb2a072e26ef9a31",
+    "height": 720,
+    "image": "static/blocks/petrified_valtrox_log.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/petrified_valtrox_pressure_plate": {
+    "hash": "e7d7eec8ead1bd88dfbd31da38a94a229e86b455f528ecc743019cc3516d5fbd",
+    "height": 720,
+    "image": "static/blocks/petrified_valtrox_pressure_plate.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/petrified_valtrox_slab": {
+    "hash": "23afd836ead903f211c03200762e7cbfcb04daacec01e6e068679fe7915f7472",
+    "height": 720,
+    "image": "static/blocks/petrified_valtrox_slab.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/petrified_valtrox_slates": {
+    "hash": "fdbf90589f164d51800c5dae2274545d66afe3337974b98f3b867b6169b216e3",
+    "height": 720,
+    "image": "static/blocks/petrified_valtrox_slates.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/petrified_valtrox_stairs": {
+    "hash": "430e8e30601b9033b710832f2773639446c4baff66a3f3245002a178d70a1675",
+    "height": 720,
+    "image": "static/blocks/petrified_valtrox_stairs.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/petrified_valtrox_trapdoor": {
+    "hash": "a0b3df8cfccddd13dbd386e0cecebbb849341c9c6d4e7eb1eeb455dda5829875",
+    "height": 720,
+    "image": "static/blocks/petrified_valtrox_trapdoor.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/petrified_valtrox_wall": {
+    "hash": "75e045de3b1b8e579e32b94815eb20190e35f984d548a6e2a4efb56121cc979b",
+    "height": 720,
+    "image": "static/blocks/petrified_valtrox_wall.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/petrified_valtrox_wall_gate": {
+    "hash": "75d448f05ad5614b863efe8e4fa90f08006ac70ed033d5d75989a528d209f6c0",
+    "height": 720,
+    "image": "static/blocks/petrified_valtrox_wall_gate.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/petrified_valtrox_wood": {
+    "hash": "5d64be842156f9739bfc2bbde857b5c18837b520e18cd7d3375b6d60703853ed",
+    "height": 720,
+    "image": "static/blocks/petrified_valtrox_wood.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/polished_amalgamite": {
+    "hash": "5ac18ae05118c0e415bfabe884688ee8c073d1cbc9d6b981d549b745520803f7",
+    "height": 720,
+    "image": "static/blocks/polished_amalgamite.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/polished_amalgamite_slab": {
+    "hash": "b1c9e6131512855ac0c8051e874ff66eb4ef70fc869d7ed4ada52126cb2b80e4",
+    "height": 720,
+    "image": "static/blocks/polished_amalgamite_slab.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/polished_amalgamite_stairs": {
+    "hash": "29db3b06074fc281e30987abc2b35f5d95d76673f5eac9d59e3483dc7d562c38",
+    "height": 720,
+    "image": "static/blocks/polished_amalgamite_stairs.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/polished_amalgamite_wall": {
+    "hash": "9d8940dbccce6e683dfe5809dea90420cffda63e43c760ce2cc3fbdf891c03f6",
+    "height": 720,
+    "image": "static/blocks/polished_amalgamite_wall.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/polished_zygrin": {
+    "hash": "f66ffedf7f8996f46cb2e363069c1e494c87b7de29797095480c0dfa5e1c8aea",
+    "height": 720,
+    "image": "static/blocks/polished_zygrin.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/polished_zygrin_slab": {
+    "hash": "9a1394619665325c9d90daae2ae7eca51993d1b4c8e500beb55025001f165ad7",
+    "height": 720,
+    "image": "static/blocks/polished_zygrin_slab.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/polished_zygrin_stairs": {
+    "hash": "91b252960e12f771ff2d0fdf9af683a40a5be380b92d92a05a392a43572463e3",
+    "height": 720,
+    "image": "static/blocks/polished_zygrin_stairs.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/polished_zygrin_wall": {
+    "hash": "82d784b932359b77fc9dcf1411c389831046194c9b5936afb51ca76492f20637",
+    "height": 720,
+    "image": "static/blocks/polished_zygrin_wall.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/quazarith_block": {
+    "hash": "30040acf9c68bbba90aef478cd2fc944804b259938d9f97c744b3388095f89be",
+    "height": 720,
+    "image": "static/blocks/quazarith_block.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/quazarith_ore": {
+    "hash": "7887b31776ae5bb9245a198ae18de07d1418c5a14b3ec48eefa1dbb37bf8dfb8",
+    "height": 720,
+    "image": "static/blocks/quazarith_ore.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/quazarith_oscillator": {
+    "hash": "f0f1ff4c8a82c2d795979b6ddad1e08b561362460cf246f6ab46539d643cc39c",
+    "height": 720,
+    "image": "static/blocks/quazarith_oscillator.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/sculk_pedestal": {
+    "hash": "022a2753fe8bb410f50946dc5721035410a853f98a47dd49f16e37bd28f25073",
+    "height": 720,
+    "image": "static/blocks/sculk_pedestal.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/stripped_dried_valtrox_log": {
+    "hash": "a75b948a8b927a27d068f9d6d46bf4a3c8ffa1cf4ba8faab024114e85c6d8bed",
+    "height": 720,
+    "image": "static/blocks/stripped_dried_valtrox_log.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/stripped_dried_valtrox_wood": {
+    "hash": "1605c0b0e9250f49bee9debec9b4166fe375eba370c3a85cf26c8df889ac3666",
+    "height": 720,
+    "image": "static/blocks/stripped_dried_valtrox_wood.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/stripped_petrified_valtrox_log": {
+    "hash": "f696d8cf4f8289fb5e238f3afa081760fb4a6b9b23e42eb7f8e5167c8fdb44e3",
+    "height": 720,
+    "image": "static/blocks/stripped_petrified_valtrox_log.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/stripped_petrified_valtrox_wood": {
+    "hash": "a506c0682d9a36b6e9ab32d3ee6449da666ebe9656c03e69a72440ff83ee0f7b",
+    "height": 720,
+    "image": "static/blocks/stripped_petrified_valtrox_wood.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/stripped_valtrox_log": {
+    "hash": "487c0c637c51692bc343185302cf03ba13181d3f8b6b82c6b7354df4b8b5fa75",
+    "height": 720,
+    "image": "static/blocks/stripped_valtrox_log.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/stripped_valtrox_wood": {
+    "hash": "545b08c97d15910b64735543674af29746a3c43b8408d9a50f3bb7223e19bf77",
+    "height": 720,
+    "image": "static/blocks/stripped_valtrox_wood.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/umbrusk": {
+    "hash": "7ed71b53b420fbf2a6025fc3f767d05712e29d2ed0dcaca76daaf57b1468bbac",
+    "height": 720,
+    "image": "static/blocks/umbrusk.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/umbrusk_brick_slab": {
+    "hash": "67743a73da17b9b8b35ee2d3d085378b33174daef5352eafb87cbbddba0cd0c5",
+    "height": 720,
+    "image": "static/blocks/umbrusk_brick_slab.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/umbrusk_brick_stairs": {
+    "hash": "385bb01bfb961ff9f01d1474636150daf5f66f8abdda5d2d0a9172ed248e6e8f",
+    "height": 720,
+    "image": "static/blocks/umbrusk_brick_stairs.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/umbrusk_brick_wall": {
+    "hash": "80a28701c0e2cbe8ac33cb1bf8025d7550c8aa52efbce31b8d1a925a1de5810b",
+    "height": 720,
+    "image": "static/blocks/umbrusk_brick_wall.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/umbrusk_bricks": {
+    "hash": "45e793e9cad52225b3df8549b394f1199ac57fb4ce051e383abd7f07cc69316b",
+    "height": 720,
+    "image": "static/blocks/umbrusk_bricks.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/umbrusk_slab": {
+    "hash": "6c6b99d2c2f0fd423c5b696939bd56d97e9bca357f8578bef93a333cf679e191",
+    "height": 720,
+    "image": "static/blocks/umbrusk_slab.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/umbrusk_stairs": {
+    "hash": "5045b78e395042d4d0db6fbf1a057c360f1e0d7b8b6e599b75833e557e087942",
+    "height": 720,
+    "image": "static/blocks/umbrusk_stairs.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/umbrusk_wall": {
+    "hash": "5ede613e52a8372b60afd587fe9e590901a58c70b8641acabef7ae5e819e98fa",
+    "height": 720,
+    "image": "static/blocks/umbrusk_wall.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/valtrox_button": {
+    "hash": "4fdc979a63c1922528065e44e92f6072173cc53f371a1b18a31ed2f6b5d2986c",
+    "height": 720,
+    "image": "static/blocks/valtrox_button.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/valtrox_door": {
+    "hash": "e3b1dda4a3870bbf65961b1c3aa54a03890f8faa2632f894ab3439670b37740c",
+    "height": 720,
+    "image": "static/blocks/valtrox_door.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/valtrox_fence": {
+    "hash": "ed05e6a28a5f55acd6be2ba4e76c4bcd7df15e4cb14a9c72ea5ba202ec676904",
+    "height": 720,
+    "image": "static/blocks/valtrox_fence.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/valtrox_fence_gate": {
+    "hash": "34f92ef5cc7df2682d4ccb6b766670d3bd44634fc2d6d4c1ae28fd06415308ae",
+    "height": 720,
+    "image": "static/blocks/valtrox_fence_gate.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/valtrox_leaves": {
+    "hash": "a51e621f286a26392013aa6dcfcd46a64db400d7144aef19ecc026621ae4ceb8",
+    "height": 720,
+    "image": "static/blocks/valtrox_leaves.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/valtrox_log": {
+    "hash": "49d414352da7616bd3694a281930afb0483faed1161d7ffc6df53d751a93a817",
+    "height": 720,
+    "image": "static/blocks/valtrox_log.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/valtrox_planks": {
+    "hash": "b4a685791977abf3f0e582f5d49bb5cb19046072e5ecb75f5a86dd03a89df6e8",
+    "height": 720,
+    "image": "static/blocks/valtrox_planks.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/valtrox_pressure_plate": {
+    "hash": "e4c512c0aa89ccd44fab17772b55a84e100c6c02996cf57876300ff0d004ca75",
+    "height": 720,
+    "image": "static/blocks/valtrox_pressure_plate.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/valtrox_sapling": {
+    "hash": "822dec5bfd7980f33ecf8e584abba49974869736201be39eb813016c4431cb1e",
+    "height": 720,
+    "image": "static/blocks/valtrox_sapling.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/valtrox_slab": {
+    "hash": "5bed7baeaf0bc74c0e873cffe06e2c2857e2fd03ef5a8afe69b966508fd83267",
+    "height": 720,
+    "image": "static/blocks/valtrox_slab.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/valtrox_stairs": {
+    "hash": "c9bb0d0272a38c2a3983651531c9525569813e2e8fa6ddc25265499b4f25b7e9",
+    "height": 720,
+    "image": "static/blocks/valtrox_stairs.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/valtrox_trapdoor": {
+    "hash": "f1489d95322832e30abd680871113df81b60f739c71e42eb23636755a60693b3",
+    "height": 720,
+    "image": "static/blocks/valtrox_trapdoor.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/valtrox_wood": {
+    "hash": "aad60bf56240560ae1ad8e7d6de9dd746557eee6f4c1c871c7c3f217e965276f",
+    "height": 720,
+    "image": "static/blocks/valtrox_wood.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/white_crystal_block": {
+    "hash": "619e367a305a1ae7763b37bda7e90322cc13eb490dcba0b1c1743223e877910f",
+    "height": 720,
+    "image": "static/blocks/white_crystal_block.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/zygrin": {
+    "hash": "e994e1dce3bf1ba3e88be99244c9fa6980ae2abda7bc75d23f5d7b3d562a7a55",
+    "height": 720,
+    "image": "static/blocks/zygrin.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/zygrin_brick_slab": {
+    "hash": "7b7c9a0cb0862f30fe23c8cf4eeaa1e0c20fab10542e5301205ce4a63f6d508f",
+    "height": 720,
+    "image": "static/blocks/zygrin_brick_slab.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/zygrin_brick_stairs": {
+    "hash": "708a38856daf553163433b378fd7aad58adb99a4dac7a35b313fe854a82ca384",
+    "height": 720,
+    "image": "static/blocks/zygrin_brick_stairs.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/zygrin_brick_wall": {
+    "hash": "fdf388c9d17113774fa9df2ada1d568636573e44c10d786c8bae9e7e83946411",
+    "height": 720,
+    "image": "static/blocks/zygrin_brick_wall.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/zygrin_bricks": {
+    "hash": "89e50b2487557d5eaeb563c2ba1c3cfd301572d6391da594e66bf621d4082ff1",
+    "height": 720,
+    "image": "static/blocks/zygrin_bricks.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/zygrin_flowblock": {
+    "hash": "326154a9f1e31b608c49c368eb8e2f3d4a555671867c318ad936885a7ea7e2b6",
+    "height": 720,
+    "image": "static/blocks/zygrin_flowblock.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/zygrin_furnace": {
+    "hash": "a4807953e55d2dc551da2ceaddf012693e8a539b8901744e0251dca654793f12",
+    "height": 720,
+    "image": "static/blocks/zygrin_furnace.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/zygrin_light": {
+    "hash": "36c0258d7c246a96f300f18119d10307cd4d310c6e765440e43095a5e69cd0e0",
+    "height": 720,
+    "image": "static/blocks/zygrin_light.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/zygrin_pillar": {
+    "hash": "ecb90f687f8f75e37574426c6f3c3dccd100de2ab703103dfc7197db6b658402",
+    "height": 720,
+    "image": "static/blocks/zygrin_pillar.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/zygrin_slab": {
+    "hash": "86ba585ce759bf1b780e90af9a352c5303add9dee6b7a186f916e27997299724",
+    "height": 720,
+    "image": "static/blocks/zygrin_slab.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/zygrin_stairs": {
+    "hash": "48766cc236e2376ce049c978ae023390f546b60d9537ee4524d3d48b3f6da726",
+    "height": 720,
+    "image": "static/blocks/zygrin_stairs.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "blocks/zygrin_wall": {
+    "hash": "8a0b741c96ed728fb86d5808929daafbcb2e429762c2fd0cff73f952153d5744",
+    "height": 720,
+    "image": "static/blocks/zygrin_wall.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "items/blue_crystal": {
+    "hash": "26e8466a5f34521a77271d5ff06fd4cb75e1008044c20119bf720801378d2a5c",
+    "height": 720,
+    "image": "static/items/blue_crystal.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "items/chomper_colossus_spawn_egg": {
+    "hash": "b74bf1d75e0f9c39dbc67420552cd09fdc1d7d704d0fb3e5fefc1d82c9291107",
+    "height": 720,
+    "image": "static/items/chomper_colossus_spawn_egg.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "items/coated_valtrox_hanging_sign": {
+    "hash": "4ee3f6b6a830c5cabfb69ba4855eaddb39af0bbaca93326fcb9ffdca61476c44",
+    "height": 720,
+    "image": "static/items/coated_valtrox_hanging_sign.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "items/coated_valtrox_sign": {
+    "hash": "0aae15eee3a158294d617b2cef08e224c9e184a7503484a2a9a1bc51c02b98c9",
+    "height": 720,
+    "image": "static/items/coated_valtrox_sign.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "items/crux": {
+    "hash": "15147ba60e7b18e773e13c369694974b85b0c63f19c9e01474706fc42a01ad2f",
+    "height": 720,
+    "image": "static/items/crux.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "items/crux_resonator": {
+    "hash": "e8be8447a6f9e0a20b45b62a9a0d518f262f7f2061c4b81f85e2579a96a32d1a",
+    "height": 720,
+    "image": "static/items/crux_resonator.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "items/dried_valtrox_hanging_sign": {
+    "hash": "89c3ba4de3a3c1cd956372b77cdb9b76db482c4b38a69ed963c1c378b814a900",
+    "height": 720,
+    "image": "static/items/dried_valtrox_hanging_sign.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "items/dried_valtrox_sign": {
+    "hash": "710e6fbe77fba3bd2c0e44dcdbf31d5dfbeb44ce7b6e2a6a3d63b3af5c7d01d3",
+    "height": 720,
+    "image": "static/items/dried_valtrox_sign.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "items/energy_essence": {
+    "hash": "36098ef5833267fd95ba0590cc3eb76ee21b62ed819ea02ff3eb6f82af3ab82a",
+    "height": 720,
+    "image": "static/items/energy_essence.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "items/glomper_glux": {
+    "hash": "9779ae3177852683f7d2fbb5aa8a7b20ace6ebf03aa9487a90e25b3df8061cde",
+    "height": 720,
+    "image": "static/items/glomper_glux.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "items/glomper_spawn_egg": {
+    "hash": "db69337fa1f4f20c97af41e635735135b1edad425010357faef69de63f504f31",
+    "height": 720,
+    "image": "static/items/glomper_spawn_egg.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "items/kryslum_bucket": {
+    "hash": "a781e8acca027ebce950a13eb58bd1fac5c46e7dbf738abe48ac94e2e8405176",
+    "height": 720,
+    "image": "static/items/kryslum_bucket.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "items/lester_spawn_egg": {
+    "hash": "3a72ba5d741cb53b170c6c843f46c3c1f2fc7f7b94e68ec7431bab3d8d7534ed",
+    "height": 720,
+    "image": "static/items/lester_spawn_egg.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "items/lime_crystal": {
+    "hash": "e2a3091a4163e44d8479abf621796be892db62fd7e2d86f47ecd79a82d4b9055",
+    "height": 720,
+    "image": "static/items/lime_crystal.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "items/music_disc_zinnia": {
+    "hash": "daca41f30b94ee1883679d4d3f431ba4cc3cf8e06ca1a3340682f79790b1291f",
+    "height": 720,
+    "image": "static/items/music_disc_zinnia.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "items/orange_crystal": {
+    "hash": "f5b2c242ace88e2574ba61071e432f6571bc3d2046cbc9a7fa88ed0cb290f3a1",
+    "height": 720,
+    "image": "static/items/orange_crystal.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "items/penebrium_spore_bucket": {
+    "hash": "1d33291c8dd80b022179b6cb076b3b58fb66a649da0c410459783c218adc1ad7",
+    "height": 720,
+    "image": "static/items/penebrium_spore_bucket.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "items/petrified_valtrox_hanging_sign": {
+    "hash": "97d4fad5f73ed1ff2651d1c346681ddceadc3b5e71444b8b09e6657a9de49415",
+    "height": 720,
+    "image": "static/items/petrified_valtrox_hanging_sign.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "items/petrified_valtrox_sign": {
+    "hash": "12538d1f627c0c74be81db2db323021a18d9e9e958c11105420508474dfdb1b9",
+    "height": 720,
+    "image": "static/items/petrified_valtrox_sign.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "items/qelberries": {
+    "hash": "d97538993a5aa46e76754cb4b174dac33830d61237c1707e83e71c82be19e70a",
+    "height": 720,
+    "image": "static/items/qelberries.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "items/quazarith_axe": {
+    "hash": "55e14d9cb1eac0134552e49b4fd4bb609d855f7b47a9fc71171b0d465a6ae844",
+    "height": 720,
+    "image": "static/items/quazarith_axe.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "items/quazarith_boots": {
+    "hash": "57f0d531927b2058541412da7dcd7c5cffe64ff4d44392e880bd57cd01a2acb9",
+    "height": 720,
+    "image": "static/items/quazarith_boots.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "items/quazarith_chestplate": {
+    "hash": "9a3d68a5b635a0ac954a327902c2fcaef95834684a99a3465b46782898047144",
+    "height": 720,
+    "image": "static/items/quazarith_chestplate.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "items/quazarith_helmet": {
+    "hash": "875e00321ca91a18998079ab09b2b0be4290b2f74b97b317820cfa226034f27e",
+    "height": 720,
+    "image": "static/items/quazarith_helmet.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "items/quazarith_hoe": {
+    "hash": "84efebfeb21dd818858c5cd03274088e625416c2f59fe37eb882384231b73ca5",
+    "height": 720,
+    "image": "static/items/quazarith_hoe.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "items/quazarith_ingot": {
+    "hash": "7da10664a0e6e58c8b19a1a2aec46a4d73556b484f9a9fd65e2982cc4eeeea9d",
+    "height": 720,
+    "image": "static/items/quazarith_ingot.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "items/quazarith_leggings": {
+    "hash": "f73bae03138a7cd55e0d405288ee7a7993c2f93b0c93d4b933eebfc61174bf75",
+    "height": 720,
+    "image": "static/items/quazarith_leggings.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "items/quazarith_pickaxe": {
+    "hash": "8d81e2d2a1b84e2802c53423f9623d16e746cd644f9e716f5c82225f5d17525c",
+    "height": 720,
+    "image": "static/items/quazarith_pickaxe.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "items/quazarith_pieces": {
+    "hash": "b30a1aaa164cccf1568791816b962aee48037a3b76de8bd674e00858dc9fd3da",
+    "height": 720,
+    "image": "static/items/quazarith_pieces.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "items/quazarith_shovel": {
+    "hash": "62606e46a1403c6b6580b4eaf2517575731e314d546245cb518f0303b0042a43",
+    "height": 720,
+    "image": "static/items/quazarith_shovel.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "items/quazarith_sword": {
+    "hash": "7183ef25193abb6ecaad1c80b9402dcfb29fd5ad6ef544bd02c7f4cd416fd80a",
+    "height": 720,
+    "image": "static/items/quazarith_sword.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "items/valtrox_hanging_sign": {
+    "hash": "0118c7c260bb77ee041abc593cdeb01dcc31e11bdfe5d1f7b803addc7f9f47d1",
+    "height": 720,
+    "image": "static/items/valtrox_hanging_sign.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "items/valtrox_sign": {
+    "hash": "1a92f218d6657e07a78296510d01ec33960c878830ed31367d2f64646f7a8f95",
+    "height": 720,
+    "image": "static/items/valtrox_sign.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  },
+  "items/white_crystal": {
+    "hash": "e6d2a97be1479375972d1f8a323cf899dba300a8504e24a08c120af41eac5f8d",
+    "height": 720,
+    "image": "static/items/white_crystal.png",
+    "renderer": "minecraft-screenshot/1",
+    "width": 1280
+  }
+}
